@@ -1,9 +1,10 @@
-# 最后一个旧版UI的Chrome
-#### 时间：2020年4月21日不再建议使用旧版Chrome（ps. 仅作为爱好者使用）
+# 最后一个旧版UI的Chrome 70.0.3538.11
 
-> 这两天用chrome 70.0.3538.110一直闪退，Google也一直强调安全性问题让升级到最新版，所以请看到到朋友们不要再使用旧版UI的Chrome。
+> 这是最后一个可切换到旧版本UI的Chrome，包含win和mac版本；相比新版本的圆圆感的UI我更觉得旧版给人的感觉更符合Chrome理念：硬朗、干净、极速。
+> 
+> 时间：2020年4月21日不再建议使用旧版Chrome，这两天用chrome 70一直闪退，Google也一直强调安全性问题提醒升级到最新版。
 >
-> PS：仅供怀念下载！
+> 仅供怀念或尝鲜下载！
 
 
 #### 效果图
@@ -35,10 +36,12 @@ $ sudo chown root:wheel GoogleSoftwareUpdate
 
 ### 下载地址（官方）：
 
-win:
+官方连接已失效，请在files文件夹中选择下载！
+
+win（已失效）:
 
 https://dl.google.com/release2/chrome/QNAYH6TuhXA_70.0.3538.110/70.0.3538.110_chrome_installer.exe
 
-mac:
+mac（已失效）:
 
 https://dl.google.com/release2/chrome/AODD0i9IJlvh_70.0.3538.110/GoogleChrome-70.0.3538.110.dmg
